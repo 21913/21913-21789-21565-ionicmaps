@@ -1,7 +1,10 @@
 {
   "name": "21913-ionicmaps",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
